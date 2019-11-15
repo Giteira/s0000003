@@ -1,0 +1,40 @@
+#EXTM3U  size="medium"
+
+-------------------------------------ESQUADRÃO CLASSE A
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X01
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep01/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X02
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep02/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X03
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep03/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X04
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep04/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X05
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep05/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X06
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep06/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X07
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep07/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X08
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep08/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X09
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep09/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X10
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep10/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X11
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep11/dublado.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73c2ppn" group-title="ESQUADRÃO CLASSE A" pltv-subgroup="1ªTEMPORADA",E.CL.A 1X12
+https://cdn2.oldflix.com.br/hls/series/esquadraoclassea/ep12/dublado.m3u8
+
